@@ -1,3 +1,4 @@
+# When a conflict happens.
 library(tidyverse)
 
 # Making code more readable section (Styler) ------------------------------------------------------------
