@@ -1,3 +1,4 @@
+# Here's an example of a conflict.
 library(tidyverse)
 
 # Making code more readable section (Styler) ------------------------------------------------------------
