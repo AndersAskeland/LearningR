@@ -107,3 +107,21 @@ nhanes_update <- nhanes_small %>%
       "young"
     )
   )
+
+
+# Summarizing -------------------------------------------------------------
+
+nhanes_small %>%
+  filter(!is.na(diabetes)) %>%
+  group_by(
+    diabetes,
+    phys_active
+  ) %>%
+  summarize(
+    max_bmi = max(bmi,
+      na.rm = TRUE
+    ),
+    min_bmi = min(bmi,
+      na.rm = TRUE
+    )
+  )
