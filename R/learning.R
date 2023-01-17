@@ -1,5 +1,6 @@
 # Here's an example of a conflict.
 library(tidyverse)
+library(NHANES)
 
 # Making code more readable section (Styler) ------------------------------------------------------------
 
@@ -18,3 +19,28 @@ df$ z
 x <- 1:10
 
 
+# Looking at data ---------------------------------------------------------
+
+glimpse(NHANES)
+colnames(NHANES)
+
+select(NHANES, Age, Weight, BMI)
+
+select(NHANES, -HeadCirc)
+
+select(NHANES, starts_with("BP"))
+select(NHANES, ends_with("Day"))
+select(NHANES, contains("Age"))
+
+nhanes_small <- select(
+  NHANES,
+  Age,
+  Gender,
+  BMI,
+  Diabetes,
+  PhysActive,
+  BPSysAve,
+  BPDiaAve,
+  Education
+)
+nhanes_small
