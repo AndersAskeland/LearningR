@@ -1,0 +1,91 @@
+---
+  title: "Quote offer for instructing a course in Reproducible Research in R"
+  author: "Anders Askeland, MSc"
+  date: today
+  date-format: long
+  format:
+    pdf:
+      papersize: a4
+  fontsize: 14pt
+  fontfamily: cabin
+  fontfamilyoptions: sfdefault
+  geometry:
+    - top=20mm
+    - bottom=30mm
+    - left=20mm
+    - right=20mm
+---
+
+| askeland (CVR: 43882155)
+| Tostrupvej 246
+| 9240 Nibe, Denmark
+| Email: [anders.askeland\@gmail.com](mailto:anders.askeland@gmail.com){.email}
+| Phone: +45 81 75 03 57
+
+## Course details
+
+Code-along style instruction for an introductory course on Reproducible
+Research in R for PhD students, Postdocs, and Researchers that also
+provides networking opportunities between participants, volunteer
+helpers, and instructors.
+
+**Practicalities**:
+
+-   Number of days and hours per day: 3 day with \~7 hours per day
+-   Number of participants: \~30
+-   Number of external volunteer helpers: Minimum \~3-4, but optimally 1
+    per \~4-6 participant (5-7)
+-   Dates: April 25-27
+-   Location: Aarhus, Denmark
+
+**Room requirements and setup**:
+
+-   Large, central projector
+-   Computer/laptop connection to projector
+-   Audio system with hands-free microphone headset
+-   Extension cords for participants laptops
+-   Tea, coffee, and snacks during the morning and afternoon 15-30 min
+    breaks
+-   Tables facing the projector, put into groups of four seats
+
+## Fee
+
+| Item                                      | Hours               |
+|-------------------------------------------|---------------------|
+| Pre-course tasks: Preparation, organizing | 20                  |
+| In-course tasks: Teaching, coordinating   | 7 hrs x 3 days = 21 |
+
+-   **Rate**[^quote-1]: 645 kr per in-course hours
+-   **Total fees**: `r as.character(645*21)` kr (ex. VAT)
+-   **Quote valid until July 2023**
+
+[^quote-1]: Based on official values given in [Section
+    8.1.1.](https://medst.dk/publikationer/2022/april/loenoversigt-1-april-2022/)
+    of Lønoversigt, April 2022 from Medarbejder- og Kompetencestyrelsen.
+
+### Includes
+
+<!-- - Accommodation for the night before course starts and for the nights during the course (3 nights total).  -->
+
+-   Preparing and developing the course
+-   Organizing and coordinating with participants for pre-course tasks
+-   Organizing and coordinating with external volunteer helpers and
+    instructors
+-   Material available anytime before, during, and after the course on
+    [r-cubed-intro.rostools.org](https://r-cubed-intro.rostools.org/).
+-   Providing post-course feedback to volunteer trainee instructors
+
+### Excludes
+
+-   VAT-exempt ([professional
+    training](https://skat.dk/data.aspx?oid=2244395))
+-   Registration of and general communication to participants
+-   Contacting hotels and conference centers to coordinate room bookings
+    for participants and external volunteer helpers
+-   Managing ECTS credit for participants
+-   Organizing meals for participants (and external volunteer helpers)
+-   Food for myself for lunch and dinner for each of the three days
+
+<!-- ## Terms of Agreement -->
+
+<!-- ### Sickness -->
